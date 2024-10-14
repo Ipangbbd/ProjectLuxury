@@ -4,10 +4,6 @@ body {
   background-color: rgb(12, 32, 20);
 }
 
-::-webkit-scrollbar{
-        display: none;
-}
-
  .hero-img{
   background-image:linear-gradient(rgb(0, 0, 0, 0.5), rgb(0,0,0, 0.5)), url("/ProjectLuxury/Assets/Img/banner.jpeg");
   background-repeat: no-repeat;
